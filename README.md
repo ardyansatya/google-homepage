@@ -1,0 +1,1 @@
+Pada project pertamaa ini saya akan mencoba membuat replika dari halaman Google Homepage. Saya akan menggunakan HTML dan CSS untuk membuat tampilan muka halaman. Developer Tools pada browser juga digunakan untuk memudahkan dalam debugging code. 
